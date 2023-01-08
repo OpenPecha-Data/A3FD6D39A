@@ -1,0 +1,27 @@
+segment_sources:
+  I352DB422:
+    type: origin_type
+    relation: translation
+    base: F8FF
+    lang: en
+  IF886F88D:
+    type: origin_type
+    relation: translation
+    base: '4459'
+    lang: bo
+segment_pairs:
+  321a5d13694545609277ac7dc6bca27c:
+    I352DB422: 90a812ef4a6246c7b1729de480115d44
+    IF886F88D: ab06f7f30f0e41d3a5f53a6d86529078
+  66aff335a11d448d9b163e472bfba999:
+    I352DB422: 1741dffffcdc4993a83eb7d772ccb9f3
+    IF886F88D: 0e43d0a46c6f43efb6d770155046f12a
+  747d0fcbdf554355b31f7a364a6a65f5:
+    I352DB422: d2342b4e02f74553b17bd2a7e543560a
+    IF886F88D: 208f7de95ba14638aea199a3e7346796
+  641ed1ce189a41348094160d2dbd81d0:
+    I352DB422: 356abdd65433404e8636c8835e6d9ffa
+    IF886F88D: c849872c85264fda895fa67ba10aa108
+  f66f87c0a87f426d92a03ee17ecfbddb:
+    I352DB422: 311ece929b9d4ca093d2acac9582cee6
+    IF886F88D: 87e0879e261e4bcfa64b710897407b38
